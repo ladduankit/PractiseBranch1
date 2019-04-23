@@ -8,7 +8,7 @@ class SampleSparkJob {
 
     // Simple Hello World output (performed on the driver
     println("Hello, Scala!")
-
+    println("Hello, Scala! Are you there 3")
     // Perform a simple RDD operation
     val rdd = sc.parallelize(Seq("foo", "bar", "baz"))
     val mapped_rdd = rdd.map(term => term.reverse)
