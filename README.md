@@ -1,4 +1,4 @@
-# Sample Spark Project
+# Sample Spark Project <dummy change again>
 Sample Spark project that may be compiled into a JAR for running via `spark-submit`.
 
 ## Dependencies
